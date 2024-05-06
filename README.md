@@ -77,7 +77,6 @@ Clone repository to apps folder in frappe bench directory
 ```bash
 git clone https://github.com/abhi-146/Client_script_project-LEVEL-1/
 ```
-Note - Change name Client_script_project-LEVEL-1 to a custome appname.
 
 ```bash
 bench --site [sitename] install-app [appname]
